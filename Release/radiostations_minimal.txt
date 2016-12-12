@@ -1,0 +1,26 @@
+kittikun minimal techno
+http://shoutcast.kittikun.jp:8525
+
+globalbeats fm - white channel
+http://gbfm.li/ve/white/mp3
+
+dubplate.fm - urban boogie
+http://www.dubplate.fm/pls/dubplate_fm_dance192k.pls
+
+itsours
+http://stream.laut.fm/itsours.m3u
+
+mnmltech
+http://stream.laut.fm/mnmltech.m3u
+
+promodj mini channel
+http://radio.promodeejay.net:8000/mini-192
+
+rautemusik.fm progressive
+http://Progressive-high.RauteMusik.FM/listen.pls
+
+traxx tech-minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low
+
+uzic.ch - techno-minimal
+http://www.uzic.ch/tek.m3u
